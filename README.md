@@ -3,11 +3,6 @@ FileUpload
 
 Spring MVC (blueimp) jQuery File Upload. Based on blueimp's Grails plugin, just ported it back to spring mvc.
 
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
-
 ## Run
 ```maven
 mvn tomcat7:run
